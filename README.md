@@ -10,7 +10,7 @@
 </p>
 
 ---
- 
+  
 Prediction has become the default language of machine learning.
 Given sufficient data, we believe we can anticipate outcomes, reduce uncertainty, and optimize decisions.
 
